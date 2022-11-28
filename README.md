@@ -22,5 +22,5 @@
     <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   </span>
-  <a href="https://www.codewars.com/users/BakemonoO"><img src="https://www.codewars.com/users/BakemonoO/badges/large"></a>
 </div>
+<a href="https://www.codewars.com/users/BakemonoO"><img src="https://www.codewars.com/users/BakemonoO/badges/large"></a>
