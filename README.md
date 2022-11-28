@@ -3,7 +3,7 @@
 <div>
   <h3>About me:</h3>
   <ul>
-    <li>I'm <b>Junior Frontend Developer</b> <img src="https://w7.pngwing.com/pngs/82/735/png-transparent-emoji-briefcase-computer-icons-iphone-briefcase-angle-rectangle-suitcase-thumbnail.png" width="15" height="15"/></li>
+    <li>I'm <b>Junior Frontend Developer</b> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/moai_1f5ff.png" width="25" height="25"/></li>
     <li>I live in Kazakhstan, Pavlodar <img src="https://akorda.kz/assets/media/flag_mediumThumb.jpg" height="15" width="25"/></li>
     <li>I like programming and new knowledge <img src="https://emojio.ru/images/apple-b/1f4da.png" width="20" height="20"/> </li>
     <li>i'm a fan of <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" height="20" width="80"></li>
