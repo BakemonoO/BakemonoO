@@ -6,6 +6,7 @@
     <li>I'm <b>Junior Frontend Developer</b> <img src="https://w7.pngwing.com/pngs/82/735/png-transparent-emoji-briefcase-computer-icons-iphone-briefcase-angle-rectangle-suitcase-thumbnail.png" width="15" height="15"/></li>
     <li>I live in Kazakhstan, Pavlodar <img src="https://akorda.kz/assets/media/flag_mediumThumb.jpg" height="15" width="25"/></li>
     <li>I like programming and new knowledge <img src="https://emojio.ru/images/apple-b/1f4da.png" width="20" height="20"/> </li>
+    <li>i'm a fan of <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" height="20" width="80"></li>
   </ul>
 </div>
 <div><h2>My tech stack:</h2>
@@ -21,4 +22,5 @@
     <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   </span>
+  <a href="https://www.codewars.com/users/BakemonoO"><img src="https://www.codewars.com/users/BakemonoO/badges/large"></a>
 </div>
